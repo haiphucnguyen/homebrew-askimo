@@ -1,13 +1,13 @@
   class Askimo < Formula
   desc "AI-powered terminal assistant for multiple LLM providers"
   homepage "https://github.com/haiphucnguyen/askimo"
-  version "0.1.04"
+  version "0.1.05"
   license "Apache-2.0"
   
   on_macos do
     on_arm do
-      url "https://github.com/haiphucnguyen/askimo/releases/download/v0.1.04/askimo-v0.1.04-darwin-arm64.tar.gz"
-      sha256 "d85dcc7b877ebd372e71c2cbc42f9900e0c72af4f6f0b2e7f4dc9b82eed4337b"
+      url "https://github.com/haiphucnguyen/askimo/releases/download/v0.1.05/askimo-v0.1.05-darwin-arm64.tar.gz"
+      sha256 "444bd6e7e24a76ebebf372174f619768fd6474385f0feccd8f92bfbfc1e6d4dd"
     end
   end
   
