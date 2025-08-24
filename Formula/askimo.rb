@@ -7,7 +7,7 @@
   on_macos do
     on_arm do
       url "https://github.com/haiphucnguyen/askimo/releases/download/v0.0.4/askimo-v0.0.4-darwin-arm64.tar.gz"
-      sha256 "1ca2ec3422bffe59f799758cb537b9dd571f35ed87a1b41ae0c7cd6c353753ee"
+      sha256 "520d9a1149795f02e6c69e5edcf1d017fa474b850011da7c71bc35e2e8a69dbb"
     end
   end
   
