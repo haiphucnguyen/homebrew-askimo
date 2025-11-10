@@ -10,13 +10,13 @@ class Askimo < Formula
     on_arm do
       version "0.3.0"
       url "https://github.com/haiphucnguyen/askimo/releases/download/v0.3.0/askimo-v0.3.0-darwin-arm64.tar.gz"
-      sha256 "47ec2b7915bb870cd13545c199a5e2e4ce1fdc3b6ed317f28d3f8d539bcc91d5"
+      sha256 "aa31ec33ad2d885d130ec5e57f1e49f65cdc70113bf453e213e5325c6c8c943a"
     end
   end
   
   def install
     # Expect the tarball to contain a single binary named "askimo"
-    bin.install "bin/askimo"
+    bin.install "askimo"
   end
   
   test do
