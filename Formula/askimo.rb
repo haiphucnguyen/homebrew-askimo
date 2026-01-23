@@ -8,9 +8,9 @@ class Askimo < Formula
   
   on_macos do
     on_arm do
-      version "1.2.1.10"
-      url "https://github.com/haiphucnguyen/askimo/releases/download/v1.2.1.10/askimo-darwin-arm64.tar.gz"
-      sha256 "a1096a72439d820e2e7de67d10fa54d97bc04e9980c07b05a8f4e1b9f828369f"
+      version "1.2.1.12"
+      url "https://github.com/haiphucnguyen/askimo/releases/download/v1.2.1.12/askimo-darwin-arm64.tar.gz"
+      sha256 "8a4442388ee129b0c247ba5e88bf01856379138fcd6681874ebec2d1d11977be"
     end
   end
   
